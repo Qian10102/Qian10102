@@ -5,7 +5,7 @@
 I am interested in engineering practice, transport and logistics. This is the space where I share what I am learning, building and exploring.
 
 <p>
-  <a href="mailto:zihan.qian.insa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-E85D3F?style=flat-square&logo=gmail&logoColor=white" alt="Email Zihan QIAN" /></a>
+  <a href="mailto:qianzihanduo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-E85D3F?style=flat-square&logo=gmail&logoColor=white" alt="Email Zihan QIAN" /></a>
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-1D1D1B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Hangzhou, China" />
 </p>
 
